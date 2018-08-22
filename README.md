@@ -1,5 +1,3 @@
 # belajar-html
 
-Mantap euy
-
-Test
+Project untuk belajar HTML
